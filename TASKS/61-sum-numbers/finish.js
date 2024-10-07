@@ -26,13 +26,10 @@ function sumNumbers2() {
 
 
 sumNumbers1(1,3,5,2)
-// 4
 
 sumNumbers1(10, 20, 5)
-// 35
 
 sumNumbers1(2, 5, 80, 1, 10, 12)
-// 110
 
 
 console.log(sumNumbers2(1,3,5,2))
